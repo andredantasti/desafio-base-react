@@ -1,0 +1,11 @@
+.btn{
+    background-color: orange;
+    border-radius: 5px;
+    border-color: brown;
+    font-size: bold;
+}
+
+.btn:hover{
+    background-color: chartreuse;
+    cursor: pointer;
+}
